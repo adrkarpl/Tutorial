@@ -158,6 +158,8 @@ Created by **'Gotham Devs'**
 
 **Adrian Karwat** _adr.karwat@gmail.com_
 
+<!-- Czy dopisać nasze role?-->
+
 Feel free to contact us!
 Thank you for using _Alfred_!
 
