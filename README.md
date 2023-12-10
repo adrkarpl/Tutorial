@@ -23,7 +23,9 @@ _'Alfred'_ the CLI Bot assistant.
 ## General Information
 
 _Alfred_ streamlines the management of your address book, offering a comprehensive set of features that empower users to add, edit, delete, search, and organize contacts with ease.
+
 The inclusion of birthday notifications, tags, and notes enhances the overall utility of the address book, making _Alfred_ a valuable tool for effective contact management.
+
 _Alfred_ is designed with a user-friendly command-line interface for intuitive interaction. The command-line interface simplifies user commands and makes the address book management process efficient and accessible.
 
 ## Technologies Used
@@ -52,10 +54,10 @@ _Alfred_ provides a range of essential functionalities for managing your address
 Sample table of contacts:
 ![Alfred-show-all](https://github.com/rafalradx/alfred-assist-bot/tree/main/alfred/show_all.jpg)
 
-Sample of upcoming birthdays within a specified timeframe:
+Sample table of upcoming birthdays within a specified timeframe:
 ![Alfred-birthdays](https://github.com/rafalradx/alfred-assist-bot/tree/main/alfred/birthdays.jpg)
 
-Sample of notes:
+Sample table of notes:
 ![Alfred-show_notes](https://github.com/rafalradx/alfred-assist-bot/tree/main/alfred/show_notes.jpg)
 
 <!-- trzeba sprawdzić ścieżki dostępu -->
@@ -118,7 +120,7 @@ Enter commands as instructed to manage your contacts effectively:
 
 ## Project Status
 
-Current project version: _1.0.0_
+Current project version: _**1.0.0**_
 
 Project is: _**in progress**_.
 
@@ -147,13 +149,16 @@ This project was completed during the "Python Developer" course organized by GOI
 Created by **'Gotham Devs'**
 
 **Katarzyna Drajok** _katarzyna.drajok@gmail.com_
+
 **Katarzyna Czempiel** _katarzyna.czempiel@gmail.com_
+
 **Rafał Pietras** _rafal.radx@gmail.com_
+
 **Dawid Radzimski** _dawid.radzimski@gmail.com_
+
 **Adrian Karwat** _adr.karwat@gmail.com_
 
 Feel free to contact us!
-
 Thank you for using _Alfred_!
 
 ## License
