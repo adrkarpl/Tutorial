@@ -30,6 +30,7 @@ Alfred is designed with a user-friendly command-line interface for intuitive int
 Python 3.11.5
 
 No additional configurations are required. _Alfred_ stores the address book data locally.
+
 <!-- czy taka wersja? -->
 
 ## Features
