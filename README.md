@@ -22,8 +22,9 @@ _'Alfred'_ the CLI Bot assistant.
 
 ## General Information
 
-_Alfred_ streamlines the management of your address book, offering a comprehensive set of features that empower users to add, edit, delete, search, and organize contacts with ease. The inclusion of birthday notifications, tags, and notes enhances the overall utility of the address book, making Alfred a valuable tool for effective contact management.
-Alfred is designed with a user-friendly command-line interface for intuitive interaction. The command-line interface simplifies user commands and makes the address book management process efficient and accessible.
+_Alfred_ streamlines the management of your address book, offering a comprehensive set of features that empower users to add, edit, delete, search, and organize contacts with ease.
+The inclusion of birthday notifications, tags, and notes enhances the overall utility of the address book, making _Alfred_ a valuable tool for effective contact management.
+_Alfred_ is designed with a user-friendly command-line interface for intuitive interaction. The command-line interface simplifies user commands and makes the address book management process efficient and accessible.
 
 ## Technologies Used
 
@@ -37,22 +38,27 @@ No additional configurations are required. _Alfred_ stores the address book data
 
 _Alfred_ provides a range of essential functionalities for managing your address book effectively. Here's an expanded overview of its capabilities:
 
-    1. Adding Contacts - allows users to seamlessly add new contacts to their address book.
-    2. Editing Contacts - users can easily modify contact details, such as phone numbers, email addresses, birthdays, addresses, tags, and notes.
-    3. Deleting Contacts - enables users to remove contacts from the address book when they are no longer relevant or needed.
-    4. Searching Contacts - allows users to quickly find specific contacts.
-    5. Birthday Notifications - a convenient way to check the days remaining until the birthday of a specified contact.
-    6. Upcoming Birthdays - enable users to check and plan for upcoming birthdays within a specified timeframe.
-    7. Tagging Contacts - allows users to assign tags to contacts for easy categorization and grouping.
-    8. Adding Notes - users can attach notes to contacts, providing additional information or context.
+1. **Adding Contacts** - allows users to seamlessly add new contacts to their address book.
+2. **Editing Contacts** - users can easily modify contact details, such as phone numbers, email addresses, birthdays, addresses, tags, and notes.
+3. **Deleting Contacts** - enables users to remove contacts from the address book when they are no longer relevant or needed.
+4. **Searching Contacts** - allows users to quickly find specific contacts.
+5. **Birthday Notifications** - a convenient way to check the days remaining until the birthday of a specified contact.
+6. **Upcoming Birthdays** - enable users to check and plan for upcoming birthdays within a specified timeframe.
+7. **Tagging Contacts** - allows users to assign tags to contacts for easy categorization and grouping.
+8. **Adding Notes** - users can attach notes to contacts, providing additional information or context.
 
 ## Screenshots
 
+Sample table of contacts:
 ![Alfred-show-all](https://github.com/rafalradx/alfred-assist-bot/tree/main/alfred/show_all.jpg)
+
+Sample of upcoming birthdays within a specified timeframe:
 ![Alfred-birthdays](https://github.com/rafalradx/alfred-assist-bot/tree/main/alfred/birthdays.jpg)
+
+Sample of notes:
 ![Alfred-show_notes](https://github.com/rafalradx/alfred-assist-bot/tree/main/alfred/show_notes.jpg)
 
-<!-- trzeba sprawdzić ścieżkę dostępu -->
+<!-- trzeba sprawdzić ścieżki dostępu -->
 
 ## Setup
 
@@ -84,7 +90,7 @@ _Alfred_ provides a range of essential functionalities for managing your address
 ## Usage
 
 Follow the prompts to perform various operations on your address book.
-Enter commands as instructed to manage your contacts effectively.
+Enter commands as instructed to manage your contacts effectively:
 
 - `hello`: Start the interaction with a friendly greeting.
 - `find`: Look up a contact by name.
@@ -112,20 +118,21 @@ Enter commands as instructed to manage your contacts effectively.
 
 ## Project Status
 
-Current project version: 1.0.0
-Project is: _in progress_.
+Current project version: _1.0.0_
+
+Project is: _**in progress**_.
 
 ## Room for Improvement
 
-1. Database Interaction: Enhance by incorporating database support for persistent storage and retrieval of contacts
-2. Data Export and Import: Allow users to export and import data, facilitating seamless data transfer between different program installations.
-3. Advanced Search: Expand search functionality to enable users to perform more precise searches, such as by partial phone numbers, emails, or addresses.
-4. Image Attachment: Introduce the capability to add images to contacts for easier identification.
-5. Integration with External Sources: Add an automatic contact information completion feature by leveraging external sources through web service APIs.
-6. External Communication: Transition Alfred into a server mode to enable remote access to functions via an API, useful for integration with other tools.
-7. Authentication and Security: Implement user authentication features and secure access to editing or deletion functions with a password.
-8. Activity History: Allow users to track the history of changes for each contact, facilitating monitoring of who made edits and when.
-9. Command Extensions: Provide an easy way to add new commands and extend Alfred's capabilities without modifying existing code.
+1. Database Interaction: enhance by incorporating database support for persistent storage and retrieval of contacts.
+2. Data Export and Import: allow users to export and import data, facilitating seamless data transfer between different program installations.
+3. Advanced Search: expand search functionality to enable users to perform more precise searches, such as by partial phone numbers, emails, or addresses.
+4. Image Attachment: introduce the capability to add images to contacts for easier identification.
+5. Integration with External Sources: add an automatic contact information completion feature by leveraging external sources through web service APIs.
+6. External Communication: transition _Alfred_ into a server mode to enable remote access to functions via an API, useful for integration with other tools.
+7. Authentication and Security: implement user authentication features and secure access to editing or deletion functions with a password.
+8. Activity History: allow users to track the history of changes for each contact, facilitating monitoring of who made edits and when.
+9. Command Extensions: provide an easy way to add new commands and extend _Alfred's_ capabilities without modifying existing code.
 
 ## Contributing
 
@@ -138,6 +145,7 @@ This project was completed during the "Python Developer" course organized by GOI
 ## Contact
 
 Created by **'Gotham Devs'**
+
 **Katarzyna Drajok** _katarzyna.drajok@gmail.com_
 **Katarzyna Czempiel** _katarzyna.czempiel@gmail.com_
 **Rafał Pietras** _rafal.radx@gmail.com_
@@ -145,6 +153,7 @@ Created by **'Gotham Devs'**
 **Adrian Karwat** _adr.karwat@gmail.com_
 
 Feel free to contact us!
+
 Thank you for using _Alfred_!
 
 ## License
